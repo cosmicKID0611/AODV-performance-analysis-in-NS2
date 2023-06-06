@@ -1,0 +1,120 @@
+########## Simulation number 1 ##########
+
+No_of_Packets_Sent: 		6989
+No_of_Packets_Received: 	6989
+Packet_Delivery_Ratio: 		100.00 %
+Control_Overhead: 		50
+Normalized_Routing_Overhead: 	0.72 %
+Delay: 				0.00 Seconds
+Throughput: 			183.72 Kbps
+Packet_Dropping_Ratio: 		0.00 %
+
+
+########## Simulation number 2 ##########
+
+No_of_Packets_Sent: 		7020
+No_of_Packets_Received: 	7020
+Packet_Delivery_Ratio: 		100.00 %
+Control_Overhead: 		51
+Normalized_Routing_Overhead: 	0.73 %
+Delay: 				0.01 Seconds
+Throughput: 			184.55 Kbps
+Packet_Dropping_Ratio: 		0.00 %
+
+
+########## Simulation number 3 ##########
+
+No_of_Packets_Sent: 		6998
+No_of_Packets_Received: 	6998
+Packet_Delivery_Ratio: 		100.00 %
+Control_Overhead: 		50
+Normalized_Routing_Overhead: 	0.71 %
+Delay: 				0.00 Seconds
+Throughput: 			183.96 Kbps
+Packet_Dropping_Ratio: 		0.00 %
+
+
+########## Simulation number 4 ##########
+
+No_of_Packets_Sent: 		6976
+No_of_Packets_Received: 	6976
+Packet_Delivery_Ratio: 		100.00 %
+Control_Overhead: 		50
+Normalized_Routing_Overhead: 	0.72 %
+Delay: 				0.00 Seconds
+Throughput: 			183.37 Kbps
+Packet_Dropping_Ratio: 		0.00 %
+
+
+########## Simulation number 5 ##########
+
+No_of_Packets_Sent: 		7011
+No_of_Packets_Received: 	6885
+Packet_Delivery_Ratio: 		98.20 %
+Control_Overhead: 		101
+Normalized_Routing_Overhead: 	1.47 %
+Delay: 				0.02 Seconds
+Throughput: 			181.00 Kbps
+Packet_Dropping_Ratio: 		1.80 %
+
+
+########## Simulation number 6 ##########
+
+No_of_Packets_Sent: 		6981
+No_of_Packets_Received: 	6970
+Packet_Delivery_Ratio: 		99.84 %
+Control_Overhead: 		149
+Normalized_Routing_Overhead: 	2.14 %
+Delay: 				0.00 Seconds
+Throughput: 			183.23 Kbps
+Packet_Dropping_Ratio: 		0.16 %
+
+
+########## Simulation number 7 ##########
+
+No_of_Packets_Sent: 		7027
+No_of_Packets_Received: 	6898
+Packet_Delivery_Ratio: 		98.16 %
+Control_Overhead: 		101
+Normalized_Routing_Overhead: 	1.46 %
+Delay: 				0.02 Seconds
+Throughput: 			181.34 Kbps
+Packet_Dropping_Ratio: 		1.84 %
+
+
+########## Simulation number 8 ##########
+
+No_of_Packets_Sent: 		6998
+No_of_Packets_Received: 	6998
+Packet_Delivery_Ratio: 		100.00 %
+Control_Overhead: 		50
+Normalized_Routing_Overhead: 	0.71 %
+Delay: 				0.00 Seconds
+Throughput: 			183.97 Kbps
+Packet_Dropping_Ratio: 		0.00 %
+
+
+########## Simulation number 9 ##########
+
+No_of_Packets_Sent: 		6988
+No_of_Packets_Received: 	6988
+Packet_Delivery_Ratio: 		100.00 %
+Control_Overhead: 		50
+Normalized_Routing_Overhead: 	0.72 %
+Delay: 				0.00 Seconds
+Throughput: 			183.70 Kbps
+Packet_Dropping_Ratio: 		0.00 %
+
+
+########## Simulation number 10 ##########
+
+No_of_Packets_Sent: 		6966
+No_of_Packets_Received: 	6837
+Packet_Delivery_Ratio: 		98.15 %
+Control_Overhead: 		152
+Normalized_Routing_Overhead: 	2.22 %
+Delay: 				0.02 Seconds
+Throughput: 			179.73 Kbps
+Packet_Dropping_Ratio: 		1.85 %
+
+
